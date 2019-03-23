@@ -3,3 +3,5 @@ def my_each # put argument(s) here
 end
 
 
+#collection = [1, 2, 3, 4]
+#
